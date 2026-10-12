@@ -9,7 +9,7 @@ apps ──► process tap (muted while tapped) ──► AUHAL input ──► 
 speakers ◄── AUHAL output (pinned to the device) ◄── your processor ◄┘
 ```
 
-Pulled out of [Unboom](https://getunboom.com), a macOS app that removes room boom from
+Pulled out of [Unboom](https://unboom.app), a macOS app that removes room boom from
 speakers, where it runs every day.
 
 ## What it handles
