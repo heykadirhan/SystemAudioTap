@@ -73,6 +73,9 @@ swift run tap-demo -12
 The first run asks for **Screen & System Audio Recording** permission. An app needs
 `NSAudioCaptureUsageDescription` in its Info.plist.
 
+For a ready-made processor, [PeakCut](https://github.com/heykadirhan/PeakCut) has a
+real-time-safe, cut-only peak EQ that drops straight into `process`.
+
 ## Layout
 
 | Module | Contents |
