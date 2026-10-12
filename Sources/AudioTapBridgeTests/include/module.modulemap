@@ -1,0 +1,4 @@
+module AudioTapBridgeTests {
+    header "AudioTapBridgeTests.h"
+    export *
+}
